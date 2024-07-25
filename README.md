@@ -1,2 +1,2 @@
 # Eckart-Projection
-A simple way to compute the Eckart projector matrix (projector operator composed by the generator of SO(3)-rotations &amp; translation)
+A simple way to compute the Eckart projector matrix (projector operator composed by the generator of SO(3)-rotations &amp; translation) to project out the rotational and translation motion from the molecular coordinates, velocities, forces, Hessian...
